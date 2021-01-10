@@ -1,5 +1,5 @@
 # robofriend
-ReactJS based responsive webpage to filter out friends details.
+ReactJS based responsive web application to filter out friends details.
 <p align="center">
   <h2>Landing Pages</h2>
   <img src="Desciption/1 (2).png" width="1200">
